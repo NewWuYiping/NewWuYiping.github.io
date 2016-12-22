@@ -127,7 +127,7 @@ span[data-note] {
     border: 5px solid #fff;
     box-sizing: border-box; }
     .logo a:hover, .logo a:focus {
-      background: #f14e32; }
+      background: #999999; }
     .logo a:hover + .logo-prompt, .logo a:focus + .logo-prompt {
       display: inline-block !important; }
     .logo a .gravatar {
