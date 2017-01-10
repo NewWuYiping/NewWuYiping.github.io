@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "动态获取类的属性"
+date:   2016-12-22 16:00:59 +0800
+categories: Reflect
+---
